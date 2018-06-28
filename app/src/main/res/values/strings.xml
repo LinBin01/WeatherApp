@@ -11,5 +11,9 @@
     <string name="temp_format">%1$d°F</string>
     <string name="low_temp_format">/ %1$d°F</string>
     <string name="precip_chance_format">%1$d%%</string>
+    <string name="google_base_url">https://maps.googleapis.com/maps/api/geocode/</string>
+    <string name="dark_sky_base_url">https://api.darksky.net/forecast/</string>
+    <string name="google_api_key">AIzaSyDvJ6C99HEU57Tcnc2vsYItNUj0fnx8U2Y</string>
+    <string name="dark_sky_api_key">78e7d6515d14d5c7f1e59bab5d3e58af</string>
 
 </resources>

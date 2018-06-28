@@ -5,7 +5,8 @@
     android:id="@+id/fragment_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/background_dark">
+    android:background="@android:color/background_dark"
+    android:clickable="true">
 
     <TextView
         android:id="@+id/darkSky_textView"
@@ -46,7 +47,7 @@
         android:layout_height="150dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="30dp"
         app:layout_constraintBottom_toTopOf="@+id/summary_textView"
         app:layout_constraintEnd_toEndOf="@+id/summary_textView"
         app:layout_constraintHorizontal_bias="0.5"
